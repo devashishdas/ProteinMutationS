@@ -1,6 +1,6 @@
-aa1 = ['A', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'P', 'Q', 'R',	 'S', 'T', 'V', 'W', 'Y']
+aa1 = ['A', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Y']
 
-aa2 = ['ILE', 'GLN', 'GLY', 'GLU', 'CYS', 'ASP', 'SER', 'LYS', 'PRO', 'ASN', 'VAL', 'THR', 'HIS', 'TRP', 'PHE', 'ALA', 'MET', 'LEU', 'ARG', 'TYR']
+aa3 = ['ILE', 'GLN', 'GLY', 'GLU', 'CYS', 'ASP', 'SER', 'LYS', 'PRO', 'ASN', 'VAL', 'THR', 'HIS', 'TRP', 'PHE', 'ALA', 'MET', 'LEU', 'ARG', 'TYR']
 
 aa1aa3 = {'A': 'ALA', 'C': 'CYS', 'E': 'GLU', 'D': 'ASP', 'G': 'GLY', 'F': 'PHE', 'I': 'ILE', 'H': 'HIS', 'K': 'LYS', 'M': 'MET', 'L': 'LEU', 'N': 'ASN', 'Q': 'GLN', 'P': 'PRO', 'S': 'SER', 'R': 'ARG', 'T': 'THR', 'W': 'TRP', 'V': 'VAL', 'Y': 'TYR', 'Z': 'GLX'}
 
